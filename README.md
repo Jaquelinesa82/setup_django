@@ -3,7 +3,7 @@
 Para instalar o projeto localmente, instale o poetry e use o comando:
 
 ```bash 
-poetry install
+poetry install --with dev
 ```
 
 Ative o  ambiente virtual:
